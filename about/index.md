@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Philoy - Philosophisches von Philipp
+title: Phil - Philosophisches von Philipp
 tags: []
 modified: 2015-04-15T01:15:07.573882-04:00
 comments: true
